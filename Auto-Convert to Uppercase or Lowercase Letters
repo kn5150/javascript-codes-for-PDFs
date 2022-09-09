@@ -1,0 +1,4 @@
+// This is a custom validation script
+// Automatically convert entry to @@@case
+// TODO: Change "@@@" to either "Upper" or "Lower"
+event.value = event.value.to@@@Case();
