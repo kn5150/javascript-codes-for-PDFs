@@ -1,5 +1,5 @@
 // This is a custom calculation script
-// TODO: Rename "Text1" and "Text2" to whichever fields you'd like to add
+// TODO: Rename "Text1" and "Text2" to whichever fields you'd like to divide
 // Get field values, as numbers
 var v1 = +getField("Text1").value;
 var v2 = +getField("Text2").value;
