@@ -1,0 +1,6 @@
+// This is a "Mouse Up" action for checkboxes
+// TODO: Rename "Text1" and "Text2" to whatever checkboxes you want to disable
+// Note: You can add more lines of the same code for more checkboxes
+// set read-only property based on the value of this field compared to "Off";
+this.getField("Text1").readonly = (event.target.value != "Off");
+this.getField("Text2").readonly = (event.target.value != "Off");
