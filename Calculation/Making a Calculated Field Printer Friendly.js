@@ -35,7 +35,7 @@ var v2 = +getField("Text2").value;
 
 // Perform the subtraction
 // Note: If you have more fields to subtract, you'll need to add v3, v4, and so forth
-var sum = v1 - v2;
+var difference = v1 - v2;
 
 // Set this field value
 if (difference !== 0) {event.value = difference;
@@ -57,10 +57,32 @@ var v2 = +getField("Text2").value;
 
 // Perform the multiplication
 // Note: If you have more fields to multiply, you'll need to add v3, v4, and so forth
-var sum = v1 * v2;
+var product = v1 * v2;
 
 // Set this field value
 if (product !== 0) {event.value = product;
+
+} else {
+
+// Blank this field
+event.value = "";
+
+}
+
+
+// Division
+// Get field values, as numbers
+// TODO: Rename "Text1" and "Text2" to whichever fields you'd like to divide
+// Note: You may feel free to add more of these lines if you have more fields to divide
+var v1 = +getField("Text1").value;
+var v2 = +getField("Text2").value;
+
+// Perform the division
+// Note: If you have more fields to divide, you'll need to add v3, v4, and so forth
+var quotient = v1 / v2;
+
+// Set this field value
+if (quotient !== 0) {event.value = quotient;
 
 } else {
 
