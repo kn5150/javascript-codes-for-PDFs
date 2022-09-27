@@ -1,6 +1,6 @@
 /* 
 This is a custom calculation script
-Add, subtract, multiply, or divide while hiding "0" from display"
+Add, subtract, or multiply while hiding "0" from display"
 */
 
 // Addition
@@ -68,26 +68,3 @@ if (product !== 0) {event.value = product;
 event.value = "";
 
 }
-
-
-// Division
-// Get field values, as numbers
-// TODO: Rename "Text1" and "Text2" to whichever fields you'd like to divide
-// Note: You may feel free to add more of these lines if you have more fields to divide
-var v1 = +getField("Text1").value;
-var v2 = +getField("Text2").value;
-
-// Perform the division
-// Note: If you have more fields to divide, you'll need to add v3, v4, and so forth
-var sum = v1 / v2;
-
-// Set this field value
-if (quotient !== 0) {event.value = quotient;
-
-} else {
-
-// Blank this field
-event.value = "";
-
-}
-
