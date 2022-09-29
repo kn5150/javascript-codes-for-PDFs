@@ -1,5 +1,5 @@
-# JavaScript Codes for Withholding Tax Forms
-This a comprehensive place containing all the JavaScript codes I've used for different kinds of withholding tax forms I've programmed for work. These codes are meant to be used for Adobe Acrobat's JavaScript editor, which the file you're working with must be a PDF in order for these codes to work. Each of these codes are placed in the folder of the respective categories and should indicate such category at the very first line. 
+# JavaScript Codes for PDFs
+This a comprehensive place containing all the JavaScript codes I've used for different kinds of PDFs I've programmed for work. These codes are meant to be used for Adobe Acrobat's JavaScript editor, which the file you're working with must be a PDF in order for these codes to work. Each of these codes are placed in the folder of the respective categories and should indicate such category at the very first line. 
 
 ## Where are we plugging in these scripts?
 
