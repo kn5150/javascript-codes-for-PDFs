@@ -10,6 +10,6 @@ if (this.getField("Residence Address").valueAsString != "") {
         this.getField("Residence Zip").valueAsString;
 }
 
-else {
-    event.value = "";
+else { 
+    event.value = ""; // else statement is for printer friendliness
 }
