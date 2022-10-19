@@ -3,7 +3,7 @@ event.value = "";
 
 // Convert field values to variables
 var dob = this.getField("DOB").value; // Date of Birth
-var abc = this.getField("ChangeText").value; // Variable and string can be renamed - this is only an example
+var abc = this.getField("ChangeText").value; // Variable and field name can be changed - this is only an example
 
 if (dob != "") {
     //Commit date formats into new variables
