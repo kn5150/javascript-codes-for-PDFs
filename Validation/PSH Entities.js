@@ -1,0 +1,22 @@
+if (this.getField("PSH Entity").value = "Proservice Solutions, Inc.") {
+	event.value = [ADD VALUE HERE];
+} else if (this.getField("PSH Entity").value = "Proservice Advantage, Inc.") {
+	event.value = [ADD VALUE HERE];
+} else if (this.getField("PSH Entity").value = "Proservice Pacific, LLC") {
+	event.value = [ADD VALUE HERE];
+} else if (this.getField("PSH Entity").value = "Proservice Elite, Inc.") {
+	event.value = [ADD VALUE HERE];
+} else if (this.getField("PSH Entity").value = "Proservice Innovation, Inc.") {
+	event.value = [ADD VALUE HERE];
+} else if (this.getField("PSH Entity").value = "Proservice Optimum, Inc.") {
+	event.value = [ADD VALUE HERE];
+} else if (this.getField("PSH Entity").value = "Proservice Connect, Inc.") {
+	event.value = [ADD VALUE HERE];
+} else if (this.getField("PSH Entity").value = "Proservice Focus, Inc.") {
+	event.value = [ADD VALUE HERE];
+} else if (this.getField("PSH Entity").value = "Proservice Xpress, Inc.") {
+	event.value = [ADD VALUE HERE];
+} else if (this.getField("PSH Entity").value = "Proservice Human Resources, Inc.") {
+	event.value = [ADD VALUE HERE];
+else {
+	event.value = "";
