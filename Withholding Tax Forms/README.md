@@ -21,6 +21,8 @@ These states do not require employees to prepare withholding tax forms:
 - Washington
 - Wyoming
 
+**Employees who reside in Pennsylvania pay a flat tax rate unless exempt*
+
 ## Updates Yearly
 - Arizona
 - California
@@ -32,4 +34,3 @@ These states do not require employees to prepare withholding tax forms:
 - Oregon
 - Rhode Island
 
-**Employees who reside in Pennsylvania pay a flat tax rate unless exempt*
