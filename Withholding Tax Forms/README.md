@@ -22,6 +22,7 @@ These states do not require employees to prepare withholding tax forms:
 **Employees who reside in Pennsylvania pay a flat tax rate unless exempt*
 
 ## Updates Yearly
+- Federal W-4
 - Arizona
 - California
 - Colorado
