@@ -4,8 +4,6 @@ These are all the current withholding tax forms I've programmed for work in acco
 
 Most don't update yearly, but there is a list for states that don't require withholding tax forms as well as a list for states that update their withholding tax forms on a yearly basis.
 
-If there are any outdated forms, please reach out to me on Discord seta#5704
-
 ## Not Required
 These states do not require employees to prepare withholding tax forms:
 - Alaska
