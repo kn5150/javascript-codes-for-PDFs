@@ -1,6 +1,6 @@
 ## Overview
 
-These are all the current withholding tax forms I've programmed for work in accordance to which states we have in our system. Each of these forms have been downloaded from their respective state government's website and have been named with their revision date and/or version year/number. 
+These are all the current withholding tax forms I've programmed for work. Each of these forms have been downloaded from their respective state government's website and have been named with their revision date and/or version year/number. 
 
 Most don't update yearly, but there is a list for states that don't require withholding tax forms as well as a list for states that update their withholding tax forms on a yearly basis.
 
